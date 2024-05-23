@@ -282,7 +282,7 @@ export const ContactUs = () => {
 
               <button
                 type="submit"
-                className="bg-green-600 text-white pt-2 pb-2 pl-3.5 pr-3.5 border-none rounded-md cursor-pointer"
+                className="bg-green-600 text-white pt-2 pb-2 pl-3.5 pr-3.5 border-none rounded-md cursor-pointer hover:bg-green-700 hover:shadow-lg"
               >
                 Submit
               </button>
